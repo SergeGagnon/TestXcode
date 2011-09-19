@@ -31,6 +31,7 @@
 		5172404F1427BA0F00EAC6E4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		517240521427BA0F00EAC6E4 /* TestXcode-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TestXcode-Prefix.pch"; sourceTree = "<group>"; };
 		517240531427BA0F00EAC6E4 /* TestXcode.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = TestXcode.1; sourceTree = "<group>"; };
+		5172405A1427BBF200EAC6E4 /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +75,7 @@
 			isa = PBXGroup;
 			children = (
 				5172404F1427BA0F00EAC6E4 /* main.m */,
+				5172405A1427BBF200EAC6E4 /* README */,
 				517240531427BA0F00EAC6E4 /* TestXcode.1 */,
 				517240511427BA0F00EAC6E4 /* Supporting Files */,
 			);
