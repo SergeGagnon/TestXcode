@@ -29,7 +29,7 @@
 		517240481427BA0F00EAC6E4 /* TestXcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TestXcode; sourceTree = BUILT_PRODUCTS_DIR; };
 		5172404C1427BA0F00EAC6E4 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		5172404F1427BA0F00EAC6E4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		517240521427BA0F00EAC6E4 /* TestXcode-Prefix.pch */ = {isa = PBXFileReference; path = "TestXcode-Prefix.pch"; sourceTree = "<group>"; };
+		517240521427BA0F00EAC6E4 /* TestXcode-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TestXcode-Prefix.pch"; sourceTree = "<group>"; };
 		517240531427BA0F00EAC6E4 /* TestXcode.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = TestXcode.1; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
