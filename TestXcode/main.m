@@ -14,6 +14,7 @@ int main (int argc, const char * argv[])
     NSAutoreleasePool * pool = [[NSAutoreleasePool alloc] init];
 
     // comment here
+    // Adding comment here
     NSLog(@"Test GitHub with Xcode 4");
 
     [pool drain];
